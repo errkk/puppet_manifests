@@ -1,0 +1,4 @@
+
+[submodule "dev/eric_zsh"]
+	path = dev/eric_zsh
+	url = git@github.com:errkk/puppet_zsh.git
