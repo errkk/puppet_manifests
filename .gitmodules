@@ -2,3 +2,6 @@
 [submodule "dev/eric_zsh"]
 	path = dev/eric_zsh
 	url = git@github.com:errkk/puppet_zsh.git
+[submodule "common"]
+	path = common
+	url = git@gitlab.pokedev.net:poke_vagrant_common_modules.git
